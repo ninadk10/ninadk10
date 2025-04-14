@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+I am a Data Scientist interested in everything Data, Cloud and AI related.
+- 🔭 I’m currently working on Data projects for the public and private sectors.
+- 🌱 I’m currently learning new Cloud and Data certifications.
+- 👯 I’m looking to collaborate on Data or AI projects.
 <!--
 **ninadk10/ninadk10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

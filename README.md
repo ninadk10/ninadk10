@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2015<br>🔭 II work on Data projects for the public and private sectors.<br>🌱 I’m currently learning new Cloud and Data certifications.<br>👯 I’m looking to collaborate on Data or AI projects.</p>
+<p align="left">✨ Creating bugs since 2015<br>🔭 I work on Data projects for the public and private sectors.<br>🌱 I’m currently learning new Cloud and Data certifications.<br>👯 I’m looking to collaborate on Data or AI projects.</p>
 
 ###
 
